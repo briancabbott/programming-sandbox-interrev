@@ -1,4 +1,4 @@
-// DOOZER Application test
+// D* Application test
 // Please adjust the code as required in the task description and share us the link to your solution.
 package main
 

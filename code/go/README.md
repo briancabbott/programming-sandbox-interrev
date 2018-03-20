@@ -1,6 +1,9 @@
+Go Readme - Notes, Thoughts, Questions, Project ideas, Interview-questions, etc.
 
 
-Questions: 
+
+
+Interview Style Questions for Golang: 
 
 - (from: https://www.toptal.com/go/interview-questions)
    - Why would you prefer to use an empty struct{}? Provide some examples of the good use of the empty struct{}.
@@ -65,3 +68,35 @@ Questions:
    - In GO language how you can check variable type at runtime?
 
 - (from: http://www.golangpro.com/2015/08/golang-interview-questions-answers.html)
+   - 1. Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
+   - 2. How many Looping constructs are present in Go programming language?
+   - 3. What is the default value of type bool in Go?
+   - 4. In case of Constants which type of expressions are evaluated at compile time and which are evaluated at run time?
+   - 5. Which one of the following is correct?
+   - 6. Short  variable declaration := can be used only inside a function. True or False?
+   - 7. Short declaration := can be used for defining global variables. True or False?
+   - 8. What's wrong with the following code?
+   - 9. How can you rectify the above code?
+   - 10. What's the output of following code?
+      package main
+      import "fmt"
+      const ( 
+          i = iota
+          j 
+          k 
+      )
+      func main() {
+         fmt.Println(i, j, k)
+      }
+   - 11. What's the output of following code?
+      package main
+      import "fmt"
+      const ( 
+          i = 7
+          j 
+          k 
+      )
+      func main() {
+         fmt.Println(i, j, k)
+      }
+   - 12. Refer code snippet Ref12A and Ref12B. They have the same output. True or False?

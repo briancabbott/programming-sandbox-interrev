@@ -1,4 +1,13 @@
+C Programming Language - Notes, Thoughts, Questions, Project Ideas, Interview Questions and related excersices. 
 
+
+# C Language Specific Notes:
+## C String Handling
+## C Date and Time Handling
+## C-Lib Notes, Applications, etc.
+
+
+Basic C Questions:
 
 
 Write code to reverse a string. 

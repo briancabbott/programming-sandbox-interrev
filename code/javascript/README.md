@@ -1,7 +1,7 @@
-JavaScript Programming Language - Notes, Thoughts, Questions, Project Ideas, Interview Questions and related excersices. 
+#JavaScript Programming Language - Notes, Thoughts, Questions, Project Ideas, Interview Questions and related excersices. 
 
 
-Artifacts of JavaScript:
+#Artifacts of JavaScript:
 
 var
 
@@ -25,13 +25,13 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype
 
 
-Tutorials
+#Tutorials
 https://www.w3schools.com/js/default.asp
 https://www.w3schools.com/js/js_object_prototypes.asp
 http://es6-features.org/ # (Great resource, instant compare of ESv5 vs ESv6 feature sets.)
 
 
-Blog Aricles:
+#Blog Aricles:
 
 https://medium.com/craft-academy/javascript-arrow-functions-27d4c3334b83
 https://medium.com/craft-academy/javascript-variables-should-you-use-let-var-or-const-394f7645c88f
@@ -48,3 +48,8 @@ https://medium.com/javascript-scene/a-functional-programmers-introduction-to-jav
 https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf
 
 http://www.jstips.co/en/javascript/keyword-var-vs-let/
+
+
+Repositories worth following, knowing of:
+
+https://github.com/npm/npm

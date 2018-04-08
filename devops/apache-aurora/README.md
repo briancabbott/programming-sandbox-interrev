@@ -1,0 +1,1 @@
+Apache Aurora Notes, thoughts, etc.

@@ -1,0 +1,1 @@
+Apache Mesos Notes, thoughts, etc.
